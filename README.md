@@ -28,7 +28,16 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/>](https://react.dev/)
 
 
+  _____________________
 
+
+As I delve into the world of technology, I find that my commercial background and experience in customer relations provide a unique perspective in the realm of software development. The fusion of my passion for creative problem-solving and logical thinking aligns seamlessly with my aspiration to make a positive and meaningful impact on people's lives through innovative solutions.
+
+Having transitioned from a commercial role, I bring with me a set of soft skills highly sought after in the tech industry. My tenure as a professional in commerce has honed my abilities in efficient communication, negotiation, time-management, and decision-making. Additionally, my time at Henry has further equipped me with tenacity, leadership, agile learning, and unwavering dedication.
+
+If you are seeking a developer with a unique blend of technical prowess and a solid foundation in high-demand work environments, coupled with a history of successful IT project development, I am well-suited to enrich your team.
+
+Let's connect and explore how my commercial acumen and customer-focused mindset can contribute to the success of your endeavors!
 
 
 <div align="center">
