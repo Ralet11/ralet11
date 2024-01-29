@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Ramiro!
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ramiro-alet)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ramiro-alet/)
+
  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramiro.alet@gmail.com)](mailto:manumanoj0010@gmail.com)
 
 ### Glad to see you here! &nbsp;
