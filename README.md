@@ -26,6 +26,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redux"/>](https://react.dev/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://react.dev/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/>](https://react.dev/)
 
 
 <details>	
