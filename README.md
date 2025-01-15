@@ -6,13 +6,13 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramiro.alet@gmail.com)](mailto:manumanoj0010@gmail.com)
 
 ### Glad to see you here! &nbsp;
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
+I'm a Full Stack Developer passionate about creating scalable, efficient, and impactful web and mobile applications 🚀. I thrive on building intuitive user interfaces and robust backends that solve real-world challenges ✨.
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
+- 👨💻 Currently working on commercial-grade projects, leveraging technologies like React, Node.js, and PostgreSQL.
+- 💡 Skilled in optimizing performance and enhancing user experience.
+- 🤝 Open to collaborations in innovative and scalable software solutions.
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
@@ -32,13 +32,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
   _____________________
 
 
-As I delve into the world of technology, I find that my commercial background and experience in customer relations provide a unique perspective in the realm of software development. The fusion of my passion for creative problem-solving and logical thinking aligns seamlessly with my aspiration to make a positive and meaningful impact on people's lives through innovative solutions.
+As a developer, I aim to deliver impactful and innovative applications that meet user needs while maintaining the highest quality standards. My background in commerce and customer relations enriches my problem-solving approach, ensuring that every project is both technically sound and user-centric.
 
-Having transitioned from a commercial role, I bring with me a set of soft skills highly sought after in the tech industry. My tenure as a professional in commerce has honed my abilities in efficient communication, negotiation, time-management, and decision-making. Additionally, my time at Henry has further equipped me with tenacity, leadership, agile learning, and unwavering dedication.
-
-If you are seeking a developer with a unique blend of technical prowess and a solid foundation in high-demand work environments, coupled with a history of successful IT project development, I am well-suited to enrich your team.
-
-Let's connect and explore how my commercial acumen and customer-focused mindset can contribute to the success of your endeavors!
+If you are seeking a developer with a proven track record in full-stack development and a user-focused mindset, let's connect and create something extraordinary together!
 
 
 <div align="center">
